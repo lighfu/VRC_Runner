@@ -31,10 +31,10 @@
 
 ## スクリーンショット
 
-| メインウィンドウ | 設定エディタ |
+| メインウィンドウ | 設定一覧 |
 | --- | --- |
-| ![Main Window](docs/images/screenshot_main.png) | ![Config Editor](docs/images/screenshot_config.png) |
-| プロファイル管理と起動オプション | キャッシュや制限設定の調整 |
+| ![Main Window](docs/images/screenshot_main.png) | ![設定一覧](docs/images/screenshot_config.png) |
+| プロファイル管理と起動オプション | 起動オプション一覧 |
 
 ## インストール方法
 
