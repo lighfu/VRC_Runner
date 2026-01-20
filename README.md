@@ -5,7 +5,7 @@
 ![Downloads](https://img.shields.io/github/downloads/lighfu/VRC_Runner/total)
 
 <p align="center">
-  <img src="docs/images/app_main.png" alt="VRC Runner Preview" width="300">
+  <img src="docs/images/app_main.png" alt="VRC Runner Preview" width="256">
 </p>
 
 
