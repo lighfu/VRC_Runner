@@ -8,9 +8,10 @@
   <img src="docs/images/app_main.png" alt="VRC Runner Preview" width="200">
 </p>
 
-
+<p align="center" width="80%">
 **VRC Runner** は、VRChat の起動プロファイルを快適に管理・自動化するための多機能ランチャーツールです。
 複数のアカウントや起動オプション（解像度、モニター設定、OSCポートなど）を「プロファイル」として保存し、ワンクリックで切り替えて起動することができます。
+</p>
 
 ## 主な機能
 
