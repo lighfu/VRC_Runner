@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="docs/images/app_main.png" alt="VRC Runner Preview" width="600">
+<img src="docs/images/app_main.png" alt="VRC Runner Preview" width="200">
 
 ![License](https://img.shields.io/github/license/lighfu/VRC_Runner)
 ![Release](https://img.shields.io/github/v/release/lighfu/VRC_Runner)
